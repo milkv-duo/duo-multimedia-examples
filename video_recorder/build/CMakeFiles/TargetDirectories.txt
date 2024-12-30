@@ -1,0 +1,14 @@
+/tank3/lihai/work/duo-multimedia-examples/video_recorder/build/CMakeFiles/videoRecorder.dir
+/tank3/lihai/work/duo-multimedia-examples/video_recorder/build/CMakeFiles/edit_cache.dir
+/tank3/lihai/work/duo-multimedia-examples/video_recorder/build/CMakeFiles/rebuild_cache.dir
+/tank3/lihai/work/duo-multimedia-examples/video_recorder/build/CMakeFiles/list_install_components.dir
+/tank3/lihai/work/duo-multimedia-examples/video_recorder/build/CMakeFiles/install.dir
+/tank3/lihai/work/duo-multimedia-examples/video_recorder/build/CMakeFiles/install/local.dir
+/tank3/lihai/work/duo-multimedia-examples/video_recorder/build/CMakeFiles/install/strip.dir
+/tank3/lihai/work/duo-multimedia-examples/video_recorder/build/build/CMakeFiles/common_utils.dir
+/tank3/lihai/work/duo-multimedia-examples/video_recorder/build/build/CMakeFiles/edit_cache.dir
+/tank3/lihai/work/duo-multimedia-examples/video_recorder/build/build/CMakeFiles/rebuild_cache.dir
+/tank3/lihai/work/duo-multimedia-examples/video_recorder/build/build/CMakeFiles/list_install_components.dir
+/tank3/lihai/work/duo-multimedia-examples/video_recorder/build/build/CMakeFiles/install.dir
+/tank3/lihai/work/duo-multimedia-examples/video_recorder/build/build/CMakeFiles/install/local.dir
+/tank3/lihai/work/duo-multimedia-examples/video_recorder/build/build/CMakeFiles/install/strip.dir
