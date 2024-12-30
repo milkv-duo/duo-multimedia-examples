@@ -1,0 +1,2 @@
+/home/lihai/li/work/host-tools/gcc/riscv64-linux-musl-x86_64/bin/riscv64-unknown-linux-musl-ar qc libcommon_utils.a CMakeFiles/common_utils.dir/log.cpp.o CMakeFiles/common_utils.dir/util.cpp.o
+/home/lihai/li/work/host-tools/gcc/riscv64-linux-musl-x86_64/bin/riscv64-unknown-linux-musl-ranlib libcommon_utils.a
